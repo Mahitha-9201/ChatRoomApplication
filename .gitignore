@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+img/.DS_Store
+react-client/.DS_Store
+react-client/src/.DS_Store
+
+# Build directories
+spring-ws-server/bin/
